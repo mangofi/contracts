@@ -1,0 +1,19 @@
+{
+  "name": "mangofi-contracts",
+  "version": "0.0.1",
+  "description": "MangoFi contracts for easy use",
+  "files": [
+    "contracts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:mangofi/contracts.git"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "license": "GPL-3.0-or-later"
+}
