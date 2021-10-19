@@ -19,3 +19,11 @@ Then import the contracts via:
 ```solidity
 import "@mangofi-contracts/contracts/access/Ownable.sol"; 
 ```
+
+## Publishing
+
+Use NPM to publish (needs account with access):
+
+```
+npm publish
+```
