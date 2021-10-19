@@ -1,6 +1,6 @@
 {
   "name": "mangofi-contracts",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "MangoFi contracts for easy use",
   "files": [
     "contracts"
